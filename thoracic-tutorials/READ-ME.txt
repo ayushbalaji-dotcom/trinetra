@@ -1,0 +1,9 @@
+Trinetra: Bronchoscopy, EBUS and VATS tutorials
+
+Open index.html in a browser. Keep the images folder beside it.
+The guide works offline. It uses synthetic training shapes in real application screenshots.
+
+New light UI, controls checked 27 October 2026.
+VATS is experimental visual rehearsal. EBUS is a geometric section, not ultrasound.
+
+The same lessons are included in the maintained app tutorial source for the next application build.
